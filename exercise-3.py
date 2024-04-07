@@ -6,6 +6,7 @@ def remove_all_after(numbers, n):
     else:
         return numbers
 
+
 # User  input
 print("Enter the elements of the list, separated by spaces:")
 numbers_input = input()
