@@ -7,6 +7,7 @@ def index_power(numbers, n):
     
     return result
 
+
 # User input
 print("Enter the elements of the array, separated by spaces:")
 array_input = input()
